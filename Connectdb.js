@@ -10,4 +10,3 @@
 //   .catch(err => console.error('MongoDB connection error:', err));
 
 // module.exports = mongoose;
-// // mongodb+srv://abdulraheemghani0:abdulraheemghani0@cluster0.iwcw4.mongodb.net/
